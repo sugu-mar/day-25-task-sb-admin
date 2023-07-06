@@ -23,14 +23,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build --no-warnings",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-<<<<<<< HEAD
-=======
-
->>>>>>> 01dcdc501ebc7c1a7d1880b12a680c8b23a63199
   "browserslist": {
     "production": [
       ">0.2%",
@@ -42,8 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
